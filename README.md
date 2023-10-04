@@ -1,6 +1,6 @@
 # cp2023
 
-## Part 1
+## Part１
 This is README.
 - item1
 - item2
